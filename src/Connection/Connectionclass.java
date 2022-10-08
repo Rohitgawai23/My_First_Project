@@ -2,6 +2,7 @@ package Connection;
 import java.sql.*;
 public class Connectionclass {
 
+	//Added by Rohit
 	private static Connection con=null;
 	private static String url=null;
 	private static String username=null;
